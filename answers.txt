@@ -9,3 +9,7 @@ Answer: Data science could be applied in the field of finance. For example, data
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is used when keeping the history whereas Rebasing is used when cleaning up the history
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to using my knowledge of hypothesis testing on the final project.
