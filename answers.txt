@@ -5,3 +5,7 @@ Answer: We might consider using Git as it has many advantages when working in a 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied in the field of finance. For example, data science could be used to track previous stock market patterns and predit the future of the stock market.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is used when keeping the history whereas Rebasing is used when cleaning up the history
